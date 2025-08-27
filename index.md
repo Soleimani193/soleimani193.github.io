@@ -1,6 +1,6 @@
 # Welcome to My Personal Notes
 
-These are my notes.
+Hello! My name is Azam, and I am a researcher specializing in applied cryptography. This page serves as a platform to share my insights, research notes, and explanations on various topics, particularly focusing on proof systems.
 
 ## Notes
-- [gkr description](gkr.md)
+- [An Introduction to the GKR Protocol](gkr.md)
